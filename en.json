@@ -1,0 +1,1006 @@
+{
+  "translation": {
+    "0": "Cancelled By User",
+    "login": {
+      "denied": {
+        "logout": "Log out",
+        "placeholder-description": "Please contact administrator for more info",
+        "placeholder-title": "Cannot proceed with login",
+        "deactivated-description": "You will no longer receive delivery requests or be able to use your account. If you think something wrong happened please contact support",
+        "deactivated-title": "Your account has been deactivated.",
+        "suspended-description": "You have violated our terms of service. If you think something wrong happened, please contact support.",
+        "suspended-title": "You are temporarily suspended.",
+        "in-progress-description": "Your document is being processed. You will be contacted by one of our agents in the near future.",
+        "in-progress-title": "Registration in progress"
+      },
+      "separator": {
+        "label": "or"
+      },
+      "ctas": {
+        "sign-up": "Sign up",
+        "login": "Log in"
+      },
+      "page": {
+        "title": "Log in"
+      },
+      "password": {
+        "placeholder": "eg. passGoesHere2023",
+        "label": "Password"
+      },
+      "email": {
+        "placeholder": "example@yassir.com",
+        "label": "Email address"
+      },
+      "error": {
+        "password": {
+          "empty": "Please provide your password."
+        },
+        "email": {
+          "incorrect": "Please provide your email."
+        }
+      },
+      "error_flag_4": "Invalid credentials",
+      "error_flag_3": "Your account needs to be verified by admin",
+      "error_flag_2": "Your restaurant is inactive kindly contact admin for further details",
+      "error_flag_1": "Store not found",
+      "error_flag_0": "Your account is currently unavailable"
+    },
+    "billing": {
+      "how-it-works": {
+        "vat-definition": {
+          "description": "Value added tax",
+          "label": "VAT:"
+        },
+        "due-to-receive-definition": {
+          "description": "the amount that Yassir should pay you",
+          "label": "Due to receive:"
+        },
+        "due-to-receive": {
+          "description": "= (Gross earning) - (Yassir Commission) - (VAT)",
+          "label": "Due to receive"
+        },
+        "vat": {
+          "description": "= (Yassir commission) x Tax value",
+          "label": "VAT"
+        },
+        "yassir-commission": {
+          "description": "The amount that YASSIR will gain from each completed delivery.",
+          "label": "YASSIR Commission:"
+        },
+        "gross-earning": {
+          "description": "The total of all delivery fees earned, including YASSIR commission and taxes.",
+          "label": "Gross Earning:"
+        },
+        "net-profit": {
+          "description": "(Gross Earning) - (YASSIR Commission)",
+          "label": "Net Profit ="
+        },
+        "title": "How it works"
+      },
+      "details": {
+        "revenue-due-to-receive": "Due to receive",
+        "revenue-title": "Revenue details",
+        "orders-title": "Orders",
+        "revenue-earning": "Gross Earning",
+        "revenue-comission": "Yassir comission",
+        "revenue-vat": "VAT"
+      },
+      "page-title-details": "Billing details",
+      "bank-information": {
+        "copy-notification": "{{ label }} was copied",
+        "copy": "Copy",
+        "title": "Yassir bank information",
+        "price-in-letter": "Cycle price in letter",
+        "price": "Cycle price ({{ currency }})",
+        "phone": "Store phone number",
+        "number": "Bank account number",
+        "name": "Bank account name",
+        "description": "Use the following YASSIR bank account information to pay your commission via bank transfer:"
+      },
+      "cycle-list": {
+        "details-link-unpaid": "Billing details",
+        "details-link-paid": "See details",
+        "title-unpaid": "Unpaid cycle",
+        "title-paid": "Paid cycle"
+      },
+      "cycle": {
+        "total-profit": "Total profit",
+        "due-to-pay": "Due to pay",
+        "due-to-receive": "Due to receive",
+        "received-due": "Received due",
+        "paid-due": "Paid due",
+        "RECEIVED": "Received",
+        "PAID": "Paid",
+        "UNPAID": "Unpaid",
+        "UNRECEIVED": "Unreceived"
+      },
+      "no-data-subtitle": "Here you will see information about your revenue and performance after you make your first delivery.",
+      "no-data-title": "No data to display yet",
+      "page-title": "Billing"
+    },
+    "common": {
+      "login-password-placeholder": "Password",
+      "login-email-placeholder": "Email",
+      "avatar-input": {
+        "size-eror": "Image {{ imageName }} is to heavy, please choose another file",
+        "format-eror": "File {{ imageName }} has wrong format, only images allowed"
+      },
+      "select": "Select",
+      "time": "Time",
+      "cta": {
+        "collapse": "Collapse",
+        "expand": "Expand",
+        "reset": "Reset",
+        "apply": "Apply",
+        "clear": "Clear",
+        "upload": "Upload"
+      },
+      "modal": {
+        "close": "Close",
+        "confirm": "Confirm",
+        "submit": "Submit",
+        "cancel": "Cancel",
+        "ok": "Ok",
+        "no": "No",
+        "yes": "Yes",
+        "confirmation": "Confirmation"
+      },
+      "date-range": "Date range",
+      "max": "Max",
+      "min": "Min",
+      "filters": "Filters",
+      "date": {
+        "choose-date": "Choose date",
+        "today": "Today"
+      },
+      "today": "",
+      "sidebar": {
+        "toggle-offline": "Offline",
+        "toggle-available": "Available",
+        "logout": "Logout"
+      },
+      "page-names": {
+        "billing": "Billing",
+        "menu": "Menu",
+        "performance": "Performance",
+        "account": "Account",
+        "orders": "Orders",
+        "menu-rupture": "Menu (rupture)",
+        "add-food": "Add an item",
+        "business-infos": "Informations Business",
+        "ready-orders": "Ready orders",
+        "categories": "Categories",
+        "rejected-orders": "Rejected orders",
+        "returned-orders": "Returned orders",
+        "completed-orders": "Completed orders",
+        "ongoing-orders": "Ongoing orders",
+        "new-orders": "New orders",
+        "success": "Success",
+        "dashboard": "Dashboard"
+      },
+      "store-types": {
+        "store": "Store",
+        "dark_store": "Dark store",
+        "restaurant": "Restaurant"
+      },
+      "weekdays": {
+        "sunday": "Sunday",
+        "saturday": "Saturday",
+        "friday": "Friday",
+        "thursday": "Thursday",
+        "wednesday": "Wednesday",
+        "tuesday": "Tuesday",
+        "monday": "Monday"
+      },
+      "pagination": {
+        "next-3": "Next 3 pages",
+        "prev": "Prev",
+        "next": "Next",
+        "prev-3": "Previous 3 pages"
+      },
+      "header": {
+        "click-here": "Click Here",
+        "new-orders-full": "You Have Received {{orders_count}} New Orders",
+        "new-orders-2": "New Orders",
+        "new-orders-1": "You Have"
+      }
+    },
+    "orders": {
+      "counter": {
+        "label": "min"
+      },
+      "statuses": {
+        "picked-up": "Picked up",
+        "in-progress": "In progress",
+        "delivered": "Delivered",
+        "label": "Statuses",
+        "assigned": "Assigned",
+        "unpaid": "Unpaid",
+        "timed-out": "Timed out",
+        "returned": "Returned",
+        "completed": "Completed",
+        "canceled": "Canceled",
+        "ready": "Assigned",
+        "rejected": "Rejected"
+      },
+      "filters": {
+        "end-date": {
+          "placeholder": "End date"
+        },
+        "start-date": {
+          "placeholder": "Start date"
+        },
+        "widgets": {
+          "range-price": "{{ startPrice }} {{ currency }} to {{ endPrice }} {{ currency }}",
+          "end-price": "{{ price }} {{ currency }} or less",
+          "start-price": "{{ price }} {{ currency }} or more",
+          "range-date": "{{ startDate }} - {{ endDate}}",
+          "end-date": "{{ date }} or earlier",
+          "start-date": "{{ date }} or later"
+        }
+      },
+      "history-search-empty-title": "No item found",
+      "empty-history-search-message": "There is no item that corresponds to your search, check your spelling and try again.",
+      "search-placeholder": "Order ID, person, item or brand name",
+      "price-range": "Price Range ({{ currency }})",
+      "tabs": {
+        "history": "History",
+        "ready": "Ready",
+        "in-progress": "In progress",
+        "new": "New"
+      },
+      "empty-history-message": "Orders history will be displayed here",
+      "history-empty-title": "Waiting for orders history",
+      "search-input": {
+        "order-id": "Order ID",
+        "item": "Item",
+        "empty-title": "Search",
+        "empty-subtitle": "Find people, items or brand names",
+        "person": "Person"
+      },
+      "return-to-stock": {
+        "description": "Are you sure you want to return the items to stock?",
+        "title": "Return to stock"
+      },
+      "ctas": {
+        "ready": "Ready",
+        "return-to-stock": "Return to stock",
+        "accept": "Accept",
+        "reject": "Reject"
+      },
+      "empty-inprogress-message": "In progress orders will be displayed here",
+      "inprogress-empty-title": "Waiting for in progress orders",
+      "cancel-title": "Choose reason to reject",
+      "defaultError": "An error occurred for {{ id }}, please try again later.",
+      "server": {
+        "errors": {
+          "accept": {
+            "0": "store_id is required",
+            "ORDER_USED_CANCELLED": "Order is already canceled by user",
+            "DELETED_ORDER": "Your time is exceeded to accept this order",
+            "ALREADY_REJECTED": "You have already Denied this order",
+            "FIRST_ORDER": "This order is not authorized yet",
+            "ORDER_ACCEPTED": "This order is already accepted"
+          }
+        }
+      },
+      "notifications": {
+        "rejected": "Order was successfully rejected",
+        "accepted": "Order was successfully accepted"
+      },
+      "cancel-reasons": {
+        "other": "Other",
+        "kitchen-closed": "Kitchen closed",
+        "too-long": "Wait is too long",
+        "cant-fulfill": "Can’t fulfill the order"
+      },
+      "empty-message": "New orders will be displayed here",
+      "empty-title": "Waiting for new orders",
+      "user-types": {
+        "client": "Client"
+      },
+      "cooking-time": "Cooking time",
+      "collapse": "Collapse",
+      "expand": "Expand",
+      "tags": {
+        "classic": "Classic"
+      },
+      "epayment": "E-payment",
+      "cash": "Cash",
+      "epayment-info": "Since this is an e-payment, you won't\nreceive cash.",
+      "payment-method": "Payment method",
+      "earnings": "Earning",
+      "commission": "Commission",
+      "discount": "Discount",
+      "subtotal": "Subtotal",
+      "instruction": "Specific instruction",
+      "total": "Total",
+      "type-pack": "Type Pack",
+      "base-pack": "Base Pack",
+      "addons": "Addons",
+      "size": "Size",
+      "count-items_other": "{{ count }} Items",
+      "count-items_one": "{{ count }} Item",
+      "total-number": "Total number",
+      "confirmed": "Confirmed",
+      "category": "Category",
+      "bar-code": "Barcode",
+      "position-by": "Article pour",
+      "loading-billing": "Loading billing",
+      "empty-order": "Order was not found",
+      "empty-page": "Sorry no new order found…!"
+    },
+    "account": {
+      "preparation-time": {
+        "input-suggestion": "{{ number }} minutes",
+        "error": "Something went wrong",
+        "success": "Preparation time is successfully updated",
+        "submit": "Confirm time",
+        "text-2": "Difference between \"From\" and \"To\" should be at least 5 minutes",
+        "text-1": "Most restaurants typically have 15-40 minutes preparation time",
+        "to": "To (minutes)",
+        "from": "From (minutes)",
+        "title": "Range preparation time"
+      },
+      "business-hours": {
+        "error": "An error occurred while saving business hours, please try again later.",
+        "success": "Business hours have been saved successfully",
+        "title": "Business Hours",
+        "description": "Select current business hours:",
+        "submit": "Confirm schedule",
+        "not-set": "Not set",
+        "add-slot": "Add slot",
+        "delete-slot": "Delete slot",
+        "time-label-end": "To",
+        "time-label-start": "From"
+      },
+      "edit-info": {
+        "confirm-submit": "Save",
+        "confirm-description": "Are you sure you want to save the changes to your profile",
+        "confirm-title": "Confirm changes",
+        "save-changes": "Save changes",
+        "website-placeholder": "Website link",
+        "website-label": "Website",
+        "facebook-placeholder": "Facebook page link",
+        "facebook-label": "Facebook",
+        "add-email": "Add email",
+        "email-placeholder": "example@yassir.com",
+        "email-label": "Email",
+        "add-phone-number": "Add phone number",
+        "phone-label": "Phone",
+        "store-name-placeholder": "Store name",
+        "store-name-label": "Store name",
+        "header": "Edit Info"
+      },
+      "in-review": "Pending verification by Yassir team",
+      "store-info": {
+        "edit-button": "Edit info",
+        "no-rating": "No rating"
+      },
+      "logout": {
+        "title": "Log out",
+        "description": "Are you sure you want to log out?",
+        "confirm": "Log out",
+        "trigger": "Logout"
+      }
+    },
+    "performance": {
+      "reviews": {
+        "client-prefix": "Client #{{ id }}",
+        "driver-prefix": "Driver #{{ id }}",
+        "empty": "No rating",
+        "driver-reviews": "Courier reviews",
+        "client-reviews": "Customer reviews",
+        "title": "Reviews",
+        "view-all": "View All"
+      },
+      "revenue": {
+        "net-profit": "Net profit",
+        "gross-earning": "Gross earning",
+        "yassir-comission": "Yassir comission",
+        "no-data": "No data to show yet",
+        "title": "Revenue performance"
+      },
+      "best-selling": {
+        "title": "Best selling items"
+      },
+      "not-enough-data": "Not enough data",
+      "custom-range": {
+        "apply": "Apply",
+        "cancel": "Cancel"
+      },
+      "orders-performance": {
+        "empty": {
+          "description": "Here you will see information about your revenue and performance after you make your first delivery.",
+          "title": "No data to display yet"
+        },
+        "title": "Orders performance"
+      },
+      "range-picker": {
+        "custom": "Custom range…",
+        "months-3": "3 months",
+        "months-1": "1 months",
+        "weekly": "Weekly",
+        "daily": "Daily"
+      },
+      "acceptance-rate": {
+        "rejected": "Rejected",
+        "accepted": "Accepted",
+        "total-recieved": "Total received orders"
+      },
+      "product-stats": {
+        "total-price": "Total price",
+        "items-sold": "Items sold"
+      },
+      "prep-time": {
+        "medium-alert": "You need to improve the cooking time.",
+        "slow-alert": "You need to improve the cooking time. This could affect overall rating and ranking in the search results.",
+        "medium": "10 - 15 min",
+        "slow": ">15 min",
+        "time": "{{ minutes }} min {{ seconds }} sec",
+        "fast": "5 - 10 min",
+        "title": "Preparation time"
+      },
+      "doughnut": {
+        "legend": {
+          "title": "Out of {{ count }} accepted"
+        }
+      },
+      "tabs": {
+        "revenue": "Revenue",
+        "quality": "Quality",
+        "orders": "Orders"
+      }
+    },
+    "menu": {
+      "search-placeholder": "Search",
+      "edit-modal": {
+        "addonslist-title": "Addons",
+        "edit-price-title": "Edit price",
+        "edit-price-label": "Price",
+        "edit-price-submit": "Save",
+        "option-edit": "Edit price",
+        "option-show": "Show",
+        "option-hide": "Hide",
+        "addons-title": "Add-ons",
+        "validate": "Validate",
+        "maxQuantity": "Max order quantity",
+        "addons-link": "Addons",
+        "title": "Edit item",
+        "item-name": "Item name",
+        "price": "Price ({{ currency }})",
+        "success": "Success"
+      },
+      "hide-modal": {
+        "description": "\"{{ name }}\" will be hidden from the list in the menu.",
+        "setting": {
+          "label": "Don’t show again"
+        },
+        "title": "Hide \"{{ name }}\""
+      },
+      "filters": {
+        "status": {
+          "available": "Available",
+          "unavailable": "Unavailable",
+          "in-active": "In Active",
+          "active": "Active",
+          "all": "All"
+        },
+        "fieldset": {
+          "category": "Category",
+          "availability": "Availability"
+        },
+        "sub-category-empty-option": "No sub-category",
+        "category-empty-option": "No category",
+        "sub-category-label": "Sub-category",
+        "sub-category-placeholder": "Select sub-category",
+        "quantity-label": "Quantity:",
+        "quantity-placeholder": "0",
+        "apply-button": "Apply Filters",
+        "quantity-minimal-quantity": "Minimal quantity",
+        "quantity-all": "All",
+        "category-placeholder": "Select category",
+        "category-label": "Category",
+        "status-placeholder": "Select status",
+        "status-label": "Status:",
+        "search-placeholder": "Barcode, Product name",
+        "search-label": "Search:"
+      },
+      "empty-menu-title": "Waiting for menu",
+      "empty-menu-message": "Menu will be displayed here",
+      "empty-search-message": "There is no item that corresponds to your search, check your spelling and try again.",
+      "empty-search-title": "No item found",
+      "item": {
+        "hide": "Hide",
+        "show": "Show",
+        "edit": "Edit"
+      },
+      "details": {
+        "list-header": "MENU ITEM",
+        "error-price-required": "Price is required",
+        "price-form": {
+          "price": {
+            "placeholder": "Price",
+            "label": "Price in {{ currency }}"
+          }
+        },
+        "type-pack-header": "TYPE PACK",
+        "descriptions-header": "Descriptions",
+        "base-pack-header": "BASE PACK",
+        "addons-header": "ADD-ONS",
+        "header": "Menu Details"
+      },
+      "edit-price-modal": {
+        "error-price-required": "Price is required",
+        "price": "Price",
+        "error-name-required": "Name is required",
+        "name": "Name"
+      },
+      "import-modal": {
+        "errors": {
+          "sub-category": "Category must have a subcategory",
+          "duplicate-food": "Food name must be unique for the same category",
+          "zone": "Zone must be alphabetical",
+          "level": "Level must be an integer",
+          "quantity": "Quantity must be greater than or equal to 0",
+          "price-number": "Price must be a number",
+          "not-empty": "Name and category must not be empty"
+        },
+        "cta": {
+          "add-menu-list": "Add menu list",
+          "optional": "(Optional)",
+          "cancel": "Cancel",
+          "upload": "Upload…"
+        },
+        "menu-list": "Menu list",
+        "images-list": "Images List",
+        "items-list": "Items List",
+        "radio": {
+          "add": "Add/Update Products",
+          "enable": "Enable Products",
+          "disable": "Disable Prodcuts"
+        },
+        "title": "Import Products"
+      },
+      "table": {
+        "column-image": "Image",
+        "column-expiration-date": "Expiration Date",
+        "column-lot": "Lot",
+        "column-level": "Level",
+        "column-shelf": "Shelf",
+        "column-zone": "Zone",
+        "column-supplier-id": "Supplier Id",
+        "column-sub-category": "Sub Category",
+        "column-description": "Description",
+        "column-short-description": "Short Description",
+        "column-purchase-price": "Purchase Price",
+        "column-name": "Name",
+        "action-show-gal-lery": "Show and update gallery",
+        "action-clone": "Clone product",
+        "action-update-quantity": "Update product quantity",
+        "action-add-lot": "Add lot",
+        "action-change-visibility": "Change visibility status",
+        "in-active": "In Active",
+        "empty": "No product found",
+        "action-edit": "Edit product",
+        "action-delete": "Delete product",
+        "column-product-name": "Product name",
+        "column-barcode": "Barcode",
+        "column-quantity": "Quantity",
+        "column-price": "Price",
+        "column-location": "Location",
+        "column-status": "Status",
+        "column-action": "Action",
+        "no-name-item": "No name item",
+        "active": "Active",
+        "column-category": "Category"
+      },
+      "lots-modal": {
+        "table-empty": "No lots found",
+        "table-date": "Date",
+        "title": "Dates",
+        "lot-label": "Lot",
+        "date-label": "Date",
+        "add-submit-button": "Add",
+        "table-lot": "Lot",
+        "close-button": "Close",
+        "table-action": "Action"
+      },
+      "import-products-button": "Import products",
+      "download-sample-button": "Download sample",
+      "add-product-button": "Add product",
+      "title": "PRODUCT LIST"
+    },
+    "categories": {
+      "recommended": {
+        "option-add-food": "Add Food Items",
+        "option-select-food": "Select Your Recommended Foods",
+        "add-modal-submit": "ADD RECOMMENDED FOOD",
+        "add-modal-desc-2": "Only 6 items can be added",
+        "delete-title": "Are you sure want to remove this food?",
+        "delete-cancel": "No, let`s keep it",
+        "delete-submit": "Remove Now",
+        "add-modal-title": "Select Your Recommended foods",
+        "title-1": "Hey!",
+        "title-2": "set the recommended items from your restaurant",
+        "description-1": "NOTE:",
+        "description-2": "This category will be showed at top to the customer, only 6 items can be added",
+        "subtitle": "RECOMMENDED FOOD LIST",
+        "add-modal-desc-1": "NOTE:",
+        "global-empty": "Recommended Food List Is Empty"
+      },
+      "recommended-food": {
+        "empty-category": "Category is empty",
+        "empty-foodlist": "Food list is empty"
+      },
+      "category-required": "The category name is required",
+      "parent-required": "Category required",
+      "select-placeholder": "Select Category",
+      "sub-category-name": "Sub Category Name",
+      "new-sub-category": "Add Sub Category",
+      "select-label": "Category",
+      "category-name": "Category Name",
+      "new": "Add a category",
+      "submit": "Save",
+      "recommended-food-tab": "Recommended Food",
+      "sub-category-tab": "Sub-categories",
+      "category-tab": "Categories"
+    },
+    "business-information": {
+      "documents": {
+        "description": "Allowed file: png, jpg. 640 * 350 pixels",
+        "file-dimensions": "Image should be 640 * 350 pixels",
+        "file-type": "Only .jpg, .png are allowed",
+        "expire": {
+          "less-than-today": "Expiry date must be no less than today"
+        },
+        "expires": "Expires",
+        "test": {
+          "label": "test"
+        },
+        "menu": {
+          "label": "Menu"
+        },
+        "id": {
+          "label": "ID Scan"
+        },
+        "trade": {
+          "label": "Trade register"
+        },
+        "certificate": {
+          "label": "certificate"
+        }
+      },
+      "submit": "Save",
+      "time": {
+        "less-than-end": "Start time must be less than end time"
+      },
+      "payout-tab": {
+        "account-num": "Account Number",
+        "swift-code": "Swift Code",
+        "routing-num": "Routing Number",
+        "bank": "Bank Name",
+        "account": "Account Name",
+        "title": "Payout Detail"
+      },
+      "max-amount": {
+        "required": "Max Off Amount is required",
+        "label": "Max Off Amount"
+      },
+      "offer-amount": {
+        "required": "Offer Amount is required",
+        "label": "Offer Amount"
+      },
+      "target-amount": {
+        "required": "Target Amount is required",
+        "label": "Target Amount"
+      },
+      "cuisine": {
+        "label": "Cuisine"
+      },
+      "offer-type": {
+        "percentage": "Percentage Offer",
+        "flat": "Flat Offer",
+        "placeholder": "Select Offer type",
+        "label": "Offer Type"
+      },
+      "fieldSet": {
+        "documents": "DOCUMENTS",
+        "hours": "BUSINESS HOURS",
+        "details": "RESTAURANT DETAILS"
+      },
+      "weekdays": {
+        "sunday": {
+          "label": "sunday"
+        },
+        "saturday": {
+          "label": "saturday"
+        },
+        "friday": {
+          "label": "friday"
+        },
+        "thursday": {
+          "label": "thursday"
+        },
+        "wednesday": {
+          "label": "wednesday"
+        },
+        "tuesday": {
+          "label": "tuesday"
+        },
+        "monday": {
+          "label": "monday"
+        }
+      },
+      "food-image": {
+        "required": "Food Image is required",
+        "label": "Food Image"
+      },
+      "offer": {
+        "label": "Offer"
+      },
+      "preparation-time": {
+        "placeholder": "",
+        "required": "Estimated food preparation time is required",
+        "label": "Estimated Food Preparation Time"
+      },
+      "phone3": {
+        "label": "Phone Number 3"
+      },
+      "phone2": {
+        "label": "Phone Number 2"
+      },
+      "phone": {
+        "placeholder": "Phone Number",
+        "required": "Phone Number is required",
+        "label": "Phone Number 1"
+      },
+      "username": {
+        "placeholder": "",
+        "required": "Restaurant Owner name is required",
+        "label": "Restaurant Owner"
+      },
+      "email": {
+        "placeholder": "",
+        "not-email": "Email is not valid",
+        "required": "Restaurant email is required",
+        "label": "Email Address"
+      },
+      "location": {
+        "placeholder": "Street Address",
+        "required": "Location is required",
+        "label": "Location"
+      },
+      "currency-symbol": {
+        "label": "Currency Symbol"
+      },
+      "country-code": {
+        "label": "Country Code"
+      },
+      "apartment": {
+        "placeholder": "",
+        "required": "Apartment is requried",
+        "label": "Apartment No"
+      },
+      "area": {
+        "placeholder": "(select area)",
+        "required": "Area is required",
+        "label": "Area"
+      },
+      "city": {
+        "placeholder": "(select city)",
+        "required": "City is required",
+        "label": "City"
+      },
+      "name": {
+        "placeholder": "Restaurant Name",
+        "label": "Restaurant Name",
+        "required": "Restaurant Name is required"
+      },
+      "min-length-field": "Minimum length is 4",
+      "required-field": "This field is required",
+      "save": "Save"
+    },
+    "add-food": {
+      "errors": {
+        "time-any-required": "Minimum one Time Settings is required",
+        "sub-category-required": "Subcategory is requried",
+        "offer-toggle": {
+          "label": "Offer"
+        },
+        "offer-amount-max": "Allowed only equal to or less than 100%",
+        "offer-amount-required": "Amount is required",
+        "status-required": "Status is required",
+        "time-less-than-end": "Start time must be less than end time",
+        "level-required": "Level is required",
+        "shelf-required": "Shelf is required",
+        "zone-required": "Zone is required",
+        "image-max-size": "Max image size is {{ size }}MB.",
+        "image-required": "Image is required",
+        "short-description-min-length": "Min of short description is 3.",
+        "short-description-required": "Short descritpion is required",
+        "description-min-length": "Food description Must be Minimum of 6 Characters",
+        "description-required": "Description is required",
+        "max-quantity-required": "Max Quantity is required",
+        "sell-price-required": "Sell price is required",
+        "purchase-price-required": "Purchase price is required",
+        "per-unit-quantity-required": "Per Unit Quantity is required",
+        "min-quantity-required": "Minimum quantity is required",
+        "quantity-required": "Quantity is required",
+        "unit-required": "Unit is required",
+        "supplier-required": "Supplier name is required",
+        "name-min-length": "Food name Must be Minimum of 6 Characters",
+        "name-required": "Food name is required",
+        "barcode-required": "Barcode is required",
+        "category-required": "Category name is required"
+      },
+      "sub-category": {
+        "placeholder": "Select Food subcategory",
+        "label": "Sub-Category"
+      },
+      "image": {
+        "label": "Food Image"
+      },
+      "cta": {
+        "submit": "Submit and Exit"
+      },
+      "offer-amount": {
+        "placeholder": "",
+        "label": "Amount"
+      },
+      "status": {
+        "placeholder": "",
+        "label": "Status",
+        "options": {
+          "inactive": "In Active",
+          "active": "Active"
+        }
+      },
+      "endTime": {
+        "label": "To"
+      },
+      "startTime": {
+        "label": "From"
+      },
+      "level": {
+        "placeholder": "",
+        "label": "Level"
+      },
+      "shelf": {
+        "placeholder": "",
+        "label": "Shelf"
+      },
+      "zone": {
+        "placeholder": "",
+        "label": "Zone"
+      },
+      "short-description": {
+        "placeholder": "",
+        "label": "Short description"
+      },
+      "description": {
+        "label": "Description",
+        "placeholder": ""
+      },
+      "max-quantity": {
+        "label": "Max Quantity",
+        "placeholder": ""
+      },
+      "sell-price": {
+        "label": "Sell price",
+        "placeholder": ""
+      },
+      "purchase-price": {
+        "label": "Purchase price",
+        "placeholder": ""
+      },
+      "per-unit-quantity": {
+        "label": "Per Unit Quantity",
+        "placeholder": ""
+      },
+      "min-quantity": {
+        "label": "Minimum Quantity",
+        "placeholder": ""
+      },
+      "quantity": {
+        "label": "Quantity",
+        "placeholder": ""
+      },
+      "unit": {
+        "label": "Unit of Measurement",
+        "placeholder": "Select a unit of measurement"
+      },
+      "supplier": {
+        "label": "Supplier",
+        "placeholder": ""
+      },
+      "name": {
+        "placeholder": "",
+        "label": "Name"
+      },
+      "barcode": {
+        "placeholder": "",
+        "label": "Barcode"
+      },
+      "category": {
+        "placeholder": "Select Food Category",
+        "label": "Category Name"
+      },
+      "available-time": {
+        "title": "AVAILABLE TIME"
+      },
+      "details": {
+        "title": "FOOD DETAILS"
+      }
+    },
+    "business-informations": {
+      "earnings": {
+        "empty-table": "Sorry no order found",
+        "total_earning": "Total My Earnings",
+        "total_commande": "Total Mes Commande",
+        "un_settled": "un_settled",
+        "settled": "Settled",
+        "billing_cycle_due": "Billing Cycle due",
+        "select_billings": "Select Billing Cycle",
+        "billing_cycle": "Billing Cycle",
+        "column-your_earnings": "YOUR EARNING",
+        "column-offer_amount": "OFFER AMOUNT",
+        "column-site_comission": "SITE COMISSION",
+        "column-order_amount": "ORDER AMOUNT",
+        "column-order_date": "ORDER DATE",
+        "column-order_id": "ORDER ID"
+      }
+    },
+    "popular-items": {
+      "order_earned": "Earned",
+      "order_other": "Orders",
+      "order_one": "Order"
+    },
+    "ready-orders": {
+      "title": "Ready Order"
+    },
+    "ongoing-orders": {
+      "modal": {
+        "return-description": "Do you want to update the status?",
+        "prepare-description": "Do you want to update the status"
+      },
+      "status-prepared": "Prepared",
+      "status-returned": "Returned",
+      "return-cta": "Return stock",
+      "prepare-cta": "Prepared",
+      "title": "Restaurant Accepted"
+    },
+    "new-orders": {
+      "confirm-all-cta": "Confirm All",
+      "cancel-cta": "Cancel",
+      "accept-cta": "Accept",
+      "cancel": {
+        "comment": {
+          "required": "Comment can't be empty"
+        },
+        "reason-delivery": "The delivery man did not show up",
+        "reason-other": "Other",
+        "title": "Are you sure you want to cancel this order?"
+      },
+      "confirm": {
+        "description": "Do you want to update the status?"
+      },
+      "confirm-all": {
+        "description": "Do you want to Confirm All Items?"
+      },
+      "title": "New Order"
+    },
+    "completed-orders": {
+      "column": {
+        "order_id": "ORDER ID",
+        "quantity": "QUANTITY",
+        "price": "PRICE",
+        "status": "STATUS"
+      },
+      "empty-page": "No orders have been found"
+    },
+    "rejected-orders": {
+      "title": "Restaurant rejected"
+    }
+  }
+}
